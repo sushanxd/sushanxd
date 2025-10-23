@@ -51,7 +51,4 @@ export default function Home() {
 
         <div className="mt-10 text-center text-gray-700">
           <h2 className="text-xl font-semibold mb-2">About Me</h2>
-          <p>
-            I’m Sushan, a visual storyteller, graphics design, photographer, and videography
-          </p>
-
+            </div>
